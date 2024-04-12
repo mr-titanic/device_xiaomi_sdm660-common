@@ -355,8 +355,8 @@ PRODUCT_PACKAGES += \
     TelephonySDM660Overlay
 
 PRODUCT_PACKAGES += \
-    FrameworksBaseSDM660OverlayEvolution \
-    SettingsOverlaySDM660Evolution
+    FrameworksBaseOverlay \
+    SettingsOverlay
 
 # Perf
 PRODUCT_PACKAGES += \
