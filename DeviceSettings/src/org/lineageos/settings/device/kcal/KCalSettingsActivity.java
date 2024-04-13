@@ -23,7 +23,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 
 import com.android.settingslib.collapsingtoolbar.CollapsingToolbarBaseActivity;
-import com.android.settingslib.widget.R;
+import com.android.settingslib.collapsingtoolbar.R;
 
 public class KCalSettingsActivity extends CollapsingToolbarBaseActivity implements Utils {
 
